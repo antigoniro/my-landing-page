@@ -5,4 +5,4 @@ This is a fully hand-coded landing page project built as part of a web developme
 ## 🌐 Live Preview
 
 You can view the live version at:  
-👉 [your-username.github.io/my-landing-page](https://your-username.github.io/my-landing-page)
+👉 https://antigoniro.github.io/my-landing-page/
